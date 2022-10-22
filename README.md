@@ -1,2 +1,2 @@
 # NARWHAL DB
-fast and scalable postgres database with rocksdb data store
+Embedded database with postgres API and backed by rocksDB
